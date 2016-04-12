@@ -39,6 +39,12 @@
 合就可以得到A、B两种粒子衰变的曲线图。在绘图时，给图像添加了网格和标题，由与粒子数不带单位，所以只给x轴加上了坐标轴标签。
 
 程序代码的链接为：[程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework5/decay.py)
+
+我设定初始条件为<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?N_A%3D1000%2CN_B%3D800%2C%5Ctau_A%3D20%2C%5Ctau_B%3D10%2C%5CDelta%20t%3D0.1">，
+总时间为20s，运行程序作出了一个图像。
+
+图像链接为：[图像链接](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework5/decay.png)
+
 ##结论
 这个程序解决了一个两粒子间衰变存在影响的一类简单问题，大致模拟出了两种粒子衰变的趋势，并且能从图像上定性推测一下两种粒子的相关关系，可以观
 察A粒子对B粒子的影响随A粒子衰变的变化。
