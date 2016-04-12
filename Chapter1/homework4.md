@@ -32,6 +32,10 @@
 
 [程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Chapter1/velocity.py)
 
+我设定0为初速度，10s为总运动时间，0.1s为时间间隔，通过这些初始条件用程序计算出许多散点，作出了图像
+
+[图像链接](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Chapter1/velocity.png)
+
 ##结论
 这个程序可以输入任意初始速度和总时间得到按一定时间间隔分布的速度值，然后拟合成直线。实际上，也可以把重力加速度g也作为输入的值而不内定为<img id="equationview" name="equationview" src="http://latex.codecogs.com/png.latex?9.8m/s%5E2" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program.">，这样可以计算不同g值下的运动曲线，因为地表不同地区的重力加速度值大小都略有不同。
 
