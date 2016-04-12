@@ -51,3 +51,11 @@
 再考虑重力的修正，由于随着高度的变化，重力加速度g并不是一个恒定不变的量，随高度的增加g会变小，具体关系如下
 
 
+
+
+
+
+
+[程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework6/cannon.py)
+
+
