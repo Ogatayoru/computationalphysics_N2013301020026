@@ -58,4 +58,6 @@
 
 [程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework6/cannon.py)
 
+[图像链接](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework6/cannon.png)
+
 
