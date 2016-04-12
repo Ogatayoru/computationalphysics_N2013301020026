@@ -26,7 +26,7 @@
 
 ## 第五次作业
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
-
+- 作业链接：[作业链接](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework5/homework5.md)
 ## 第六次作业
 - 作业L1 2.9题
 - 作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”
