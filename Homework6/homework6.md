@@ -2,7 +2,7 @@
 ##摘要
 这个程序用来计算加农炮在空中飞行的轨迹，程序中把发射点设在了原点，考虑了风阻和重力的影响。对于重力，加入了飞行高度对重力大小的影响；而对于风阻，加入了空气密度对风阻大小的影响。
 ##正文
-首先，沿海平面朝加农炮飞行方向为x轴方向，垂直海平面向上为y轴方向，将加农炮的运动沿x轴和y轴分解，设加农炮初始速度与x轴夹角为$\theta$，设加农炮质量为m，在两个方向上列牛顿运动方程可以得到
+首先，沿海平面朝加农炮飞行方向为x轴方向，垂直海平面向上为y轴方向，将加农炮的运动沿x轴和y轴分解，设加农炮初始速度与x轴夹角为<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?%5Ctheta">，设加农炮质量为m，在两个方向上列牛顿运动方程可以得到
 
 <img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?m%5Cfrac%7Bdv_x%7D%7Bdt%7D%3DF_%7Bdrag%2Cx%7D%3DF_%7Bdrag%7Dcos%7B%5Ctheta%7D">
 
@@ -30,7 +30,7 @@
 
 <img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?m%5Cfrac%7Bdv_y%7D%7Bdt%7D%3D-B_2vv_y-mg">
 
-将$v_x(t)$和$v_y(t)$进行泰勒展开，然后舍弃高阶无穷小项可得到关系式
+将<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?v_x%28t%29">和<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?v_y%28t%29">进行泰勒展开，然后舍弃高阶无穷小项可得到关系式
 
 <img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?v_x%28t&amp;plus;%5CDelta%20t%29%3Dv_x%28t%29&amp;plus;%5Cfrac%7Bdv_x%7D%7Bdt%7D%5CDelta%20t">
 
