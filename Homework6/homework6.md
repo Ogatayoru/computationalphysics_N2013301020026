@@ -48,7 +48,15 @@
 
 <img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?v_%7By%2Ci&amp;plus;1%7D%3Dv_%7By%2Ci%7D-%5Cfrac%7BB_2vv_%7By%2Ci%7D%7D%7Bdt%7D%5CDelta%20t-g%5CDelta%20t">
 
-再考虑重力的修正，由于随着高度的变化，重力加速度g并不是一个恒定不变的量，随高度的增加g会变小，具体关系如下
+再考虑重力的修正，由于随着高度的变化，重力加速度g并不是一个恒定不变的量，随高度的增加g会变小，由万有引力定律可知
+g=G\frac{M_{earth}}{(R_{earth}+h)^2}
+设海平面处重力加速度为g_0,取地球半径为6400km，那么任意高度h处的重力加速度为
+g_h=\frac{6400000}{(6400000+h)^2}
+考虑完重力的修正后，再考虑空气密度随高度的变化，空气密度的变化实际影响的是风阻的大小，取空气密度变化的公式为
+\ro=\ro_0(1-\frac{ah}{T_0})^\alpha
+式中，\ro_0为海平面处的空气密度，T_0为海平面处的温度，单位是K，a\approx6.5\times10^{-3},\alpha\approx2.5
+所以原先的风阻前要加上因子(1-\frac{ah}{T_0})^\alpha，
+
 
 
 
