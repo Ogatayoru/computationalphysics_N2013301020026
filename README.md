@@ -17,7 +17,7 @@
 - 作业L1 在屏幕上用字符拼出自己姓名的英文
 - 作业L2 在屏幕上用字符拼出任意次序的姓名
 - 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
-- 作业链接：[第三次作业](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/homework3.md)
+- 作业链接：[第三次作业](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework3/homework3.md)
 
 ## 第四次作业
 - 完成第一章的练习题（自己任选一题）
