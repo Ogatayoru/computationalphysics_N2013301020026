@@ -70,9 +70,9 @@
 
 最终的程序代码为[程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework7/baseball.py)
 
-设定初始速度为30m/s，抛射角为35度，角速度为2000rpm，<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?%5Cfrac%7BS_0%7D%7Bm%7D%3D0.00041">，计算的时间间隔为0.1s，运行程序后得到了三维图像。
+设定初始速度为30m/s，初始高度为1.7m,抛射角为35度，角速度为2000rpm，<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?%5Cfrac%7BS_0%7D%7Bm%7D%3D0.00041">，计算的时间间隔为0.1s，运行程序后得到了三维图像。
 
-[3D图像]()
+[3D图像](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework7/baseball.png)
 
 ##结论
 带入设定的初始d参数运行程序后发现棒球在z轴的偏转距离较大，这并不符合我们的生活经验，可能的原因是没有考虑棒球旋转的衰减。棒球在实际运动过程中的旋转角速度不可能是恒定不变的，我觉得这对棒球的偏转有较大影响。
