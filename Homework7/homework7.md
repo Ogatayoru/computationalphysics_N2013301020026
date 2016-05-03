@@ -68,7 +68,7 @@
 
 其中<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?v_d%3D35m/s">，<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?%5CDelta%3D5m/s">。把这个式子与递推式联立就可以得到新的递推式，然后对棒球运动进行模拟，取<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?g%3D9.8%20m/s%5E2">。
 
-最终的程序代码为[程序代码]()
+最终的程序代码为[程序代码](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework7/baseball.py)
 
 设定初始速度为30m/s，抛射角为35度，角速度为2000rpm，<img id="equationview" name="equationview" title="This is the rendered form of the equation. You can not edit this directly. Right click will give you the option to save the image, and in most browsers you can drag the image onto your desktop or another program." src="http://latex.codecogs.com/gif.latex?%5Cfrac%7BS_0%7D%7Bm%7D%3D0.00041">，计算的时间间隔为0.1s，运行程序后得到了三维图像。
 
