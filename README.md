@@ -22,7 +22,7 @@
 ## 第四次作业
 - 完成第一章的练习题（自己任选一题）
 - 使用matplotlib完成图片的各种细节，认真写报告
-- 作业链接：[第四次作业](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Chapter1/homework4.md)
+- 作业链接：[第四次作业](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework4/homework4.md)
 
 ## 第五次作业
 - 继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
