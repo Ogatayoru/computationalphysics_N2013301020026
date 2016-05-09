@@ -42,7 +42,12 @@
 > 建议：可参考一些[例子](http://www.visualrelativity.com/vpython/) 
 - 作业链接：[第七次作业](https://github.com/rwh457/computationalphysics_N2013301020026/blob/master/Homework7/homework7.md)
 
+## 第八次作业
+- 作业3.7 3.8
 
+## 第九次作业
+- 作业L1 3.12
+- 作业L2 3.16 3.21
 
 
 
